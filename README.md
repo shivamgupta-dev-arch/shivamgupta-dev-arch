@@ -1,4 +1,4 @@
-<a href="https://github.com/ChotaCoderSK">
+<a href="https://github.com/shivamgupta-dev-arch">
   <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/>
 </a>
 
@@ -32,7 +32,7 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 
 📍 Gurugram, India
 
-📫 Email: **guptashivam20508@gmail.com**
+📫 Email: **[guptashivam20508@gmail.com](mailto:guptashivam20508@gmail.com)**
 
 💼 LinkedIn: **linkedin.com/in/shivam-gupta-5991991b4**
 
@@ -55,7 +55,6 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
 </p>
 
@@ -67,31 +66,45 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 
 ### Tools & Technologies
 
-- ASP.NET Core (.NET 6/8)
-- ASP.NET MVC
-- Web API
-- Dapper
-- Entity Framework Core
-- SQL Server
-- Clean Architecture
-- CQRS
-- Repository Pattern
-- Apache Kafka
-- Azure Service Bus
-- SignalR
-- JWT Authentication
-- OAuth 2.0
-- Redis
-- Swagger
-- Postman
-- Azure DevOps
-- CI/CD Pipelines
+* ASP.NET Core (.NET 6/8)
+* ASP.NET MVC
+* Web API
+* Dapper
+* Entity Framework Core
+* SQL Server
+* Clean Architecture
+* CQRS
+* Repository Pattern
+* Apache Kafka
+* Azure Service Bus
+* SignalR
+* JWT Authentication
+* OAuth 2.0
+* Redis
+* Swagger
+* Postman
+* Azure DevOps
+* CI/CD Pipelines
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Building scalable applications using **ASP.NET Core & .NET 8**
+* 🏗️ Designing **Microservices Architecture** for enterprise systems
+* 📐 Implementing **Clean Architecture, CQRS & Design Patterns**
+* ⚡ Optimizing **SQL Server Performance & Query Execution**
+* ☁️ Working with **Azure Cloud, CI/CD & DevOps Practices**
+* 🔐 Building secure APIs using **JWT Authentication & OAuth 2.0**
+* 📊 Developing real-time dashboards with **SignalR & Event-Driven Architecture**
+* 🧠 Continuously learning **System Design & Distributed Systems**
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🚀 Applied Energy Technologies Pvt. Ltd.
+
 **Senior .NET Developer** | Jan 2026 – Present
 
 🔹 Designed and developed a real-time Telecom Energy Monitoring System
@@ -107,6 +120,7 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ---
 
 ### 🏥 Akhil Systems Pvt. Ltd.
+
 **.NET Developer** | Dec 2023 – Dec 2025
 
 🔹 Developed Healthcare Management System
@@ -122,6 +136,7 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ---
 
 ### 📦 Sagar Informatics Pvt. Ltd.
+
 **.NET Developer** | Apr 2021 – Nov 2023
 
 🔹 Developed ERP & Logistics Management Systems
@@ -151,13 +166,9 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChotaCoderSK&theme=tokyonight&hide_border=true"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta-dev-arch&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChotaCoderSK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChotaCoderSK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta-dev-arch&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -165,6 +176,7 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:guptashivam20508@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -173,9 +185,10 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/ChotaCoderSK">
+<a href="https://github.com/shivamgupta-dev-arch">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
 ---
@@ -183,7 +196,7 @@ Building scalable enterprise applications with .NET, Microservices, Kafka & Clou
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ChotaCoderSK&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shivamgupta-dev-arch&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
